@@ -1,3 +1,3 @@
 export const environment = {
-  WS_PATH: 'http://10.142.0.7:8080/DockerBackend/rest'
+  WS_PATH: 'http://34.148.48.77:8080/DockerBackend/rest'
 };
